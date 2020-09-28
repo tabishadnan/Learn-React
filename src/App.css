@@ -1,0 +1,90 @@
+/* ==========CSS START=========== */
+
+.contnet-wrapper{
+  height: 100vh;
+}
+
+.content {
+  position: relative;
+  top: 25%;
+}
+
+.content a {
+  background-color: white;
+  padding: 10px 30px;
+  margin: 0px 10px;
+  border: 1px solid #5f5ee0;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 52px;
+  font-weight: bold;
+}
+
+img.split-img {
+  width: 100%;
+}
+
+.bg-black{
+  background-color: #151719 !important;
+}
+
+.bg-gradient{
+  background-color: #4c0922 !important;
+}
+
+.wrapper p {
+  font-size: 20px;
+  padding: 1rem 16rem;
+  text-align: justify;
+}
+
+a:hover{
+  text-decoration: none !important;
+}
+
+.workflow-wrapper img {
+  width: 15%;
+  background-color: #6163ff;
+  border-radius: 50%;
+}
+
+.workflow-wrapper {
+  padding: 40px 0px;
+}
+
+.workflow-wrapper p ,.split-text, .testmonials-text{
+  font-size: 18px;
+}
+
+.split-wrapper {
+  padding: 60px 0px;
+}
+
+.split-subheading, .app-name{
+  color: #6163ff;
+}
+
+img.testmonials-img {
+  width: 5%;
+}
+
+.testmonials-wrapper {
+  padding: 24px 32px 5px 24px;
+  background-color: #25282c;
+}
+
+.testmonial-client-info {
+  border-top: 1px solid #ffffff52;
+  padding-top: 25px;
+}
+
+a.mode {
+  position: absolute;
+  right: 25%;
+  top: 3%;
+  z-index: 99;
+}
+
+/* ==========CSS END=========== */
